@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.pp-navbar {
+    background: #222;
+    color: #ffffff;
+}
+
+.pp-navbar-title {
+    padding-left: 20px;
+}
+.pp-navbar-subtitle {
+    padding-left: 80px;
+}
