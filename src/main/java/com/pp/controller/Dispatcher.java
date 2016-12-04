@@ -1,4 +1,4 @@
-package com.pusimedia.controller;
+package com.pp.controller;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
