@@ -2,14 +2,41 @@ body {
     margin: 0;
 }
 
+.pp-container {
+    padding-left: 20px;
+}
+
 .pp-navbar {
     background: #222;
     color: #ffffff;
+    height: 65px;
 }
 
-.pp-navbar-title {
-    padding-left: 20px;
-}
 .pp-navbar-subtitle {
     padding-left: 80px;
+}
+
+.pp-left-nav {
+    margin: inherit;
+}
+
+.nav-pills > li > a{
+    border-radius: 0;
+}
+
+.pp-article {
+    margin: 50px 20px 20px 10px;
+}
+
+.pp-article > h2 {
+    text-align: center;
+}
+
+.pp-article > h3 {
+    padding-left: 100px;
+    text-align: center;
+}
+
+.pp-article > h4 {
+    text-align: center;
 }

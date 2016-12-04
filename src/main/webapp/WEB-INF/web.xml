@@ -7,7 +7,7 @@
     <display-name>Archetype Created Web Application</display-name>
     <servlet>
         <servlet-name>RedirectTo</servlet-name>
-        <servlet-class>com.pusimedia.controller.RedirectServlet</servlet-class>
+        <servlet-class>com.ppp.controller.RedirectServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>RedirectTo</servlet-name>
